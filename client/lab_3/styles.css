@@ -54,7 +54,10 @@
 
 
 .social,
-.logo,
+.logo{
+    width: 900px;
+    height: 300px;
+}
 .subscribe {
   border: 1px solid #5995DA;
 }
